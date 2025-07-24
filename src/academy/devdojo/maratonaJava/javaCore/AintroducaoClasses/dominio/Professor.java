@@ -1,7 +1,7 @@
 package academy.devdojo.maratonaJava.javaCore.AintroducaoClasses.dominio;
 
-public class Estudante {
-    public String nome = "Zoro";
+public class Professor {
+    public String nome;
     public int idade;
-    public String sexo;
+    public char sexo;
 }
